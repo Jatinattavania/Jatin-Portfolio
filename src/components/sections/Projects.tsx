@@ -15,28 +15,28 @@ const projects: Project[] = [
     description: "Modern single-page experience with delightful micro-interactions.",
     tags: ["Web", "SPA", "UI"],
     link: "https://www.behance.net/gallery/222670175/User-Interface",
-    image: "/images/projects/image.png",
+    image: "./images/projects/image.png",
   },
   {
     title: "Krypton Global Investment",
     description: "Brand-consistent interface and a crisp information hierarchy.",
     tags: ["Finance", "UI", "Design"],
     link: "https://www.behance.net/gallery/222672791/User-Interface-design",
-    image: "/images/projects/image.png",
+    image: "./images/projects/image.png",
   },
   {
     title: "Asas Capital",
     description: "Executive-level clarity with a polished visual language.",
     tags: ["Corporate", "UX", "Strategy"],
     link: "https://www.behance.net/gallery/223582733/UX-Strategy-Interface-Design",
-    image: "/images/projects/image.png",
+    image: "./images/projects/image.png",
   },
   {
     title: "FitFix",
     description: "A digital fitness journey with high-fidelity visuals.",
     tags: ["Health", "Visual", "Prototype"],
     link: "https://www.behance.net/gallery/223600517/Digital-Fitness-Journey-%28Hifi-Mockup%29",
-    image: "/images/projects/image.png",
+    image: "./images/projects/image.png",
   },
 ];
 
