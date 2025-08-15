@@ -9,4 +9,7 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
+  build: {
+    outDir: 'build',  // Change this to 'build' instead of 'dist'
+  },
 }); 
