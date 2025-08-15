@@ -42,7 +42,7 @@ export default function Hero() {
             <a href="#projects" className="no-link">View Projects</a>
           </Button>
           <Button asChild variant="secondary">
-            <a href="#contact">Let's talk</a>
+            <a href="https://calendly.com/jatinattavania/30min" target="_blank" rel="noopener noreferrer">Let's talk</a>
           </Button>
         </motion.div>
       </div>

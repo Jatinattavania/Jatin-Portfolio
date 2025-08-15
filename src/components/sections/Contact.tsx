@@ -1,17 +1,18 @@
-import { Mail, Instagram, Linkedin, Palette } from "lucide-react";
+import { Mail, Instagram, Linkedin, Palette, Calendar } from "lucide-react";
 
 const links = [
   { href: "mailto:jatinattavania@gmail.com", label: "Email", icon: Mail },
   { href: "https://www.instagram.com/jatinattavania", label: "Instagram", icon: Instagram },
   { href: "https://www.linkedin.com/in/jatin-attavania", label: "LinkedIn", icon: Linkedin },
   { href: "https://www.behance.net/jatinattavania1", label: "Behance", icon: Palette },
+  { href: "https://calendly.com/jatinattavania/30min", label: "Calendly", icon: Calendar },
 ];
 
 export default function Contact() {
   return (
     <section id="contact" className="section container-px mx-auto py-20">
       <div className="mb-8 text-center">
-        <h2 className="text-3xl font-semibold tracking-tight sm:text-4xl">Let’s talk</h2>
+        <h2 className="text-3xl font-semibold tracking-tight sm:text-4xl">Contact</h2>
         <p className="mt-2 max-w-2xl text-balance text-muted-foreground mx-auto">
           Reach out on email or socials—happy to discuss projects and opportunities.
         </p>
