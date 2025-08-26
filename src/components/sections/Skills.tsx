@@ -3,9 +3,9 @@ import { motion } from "framer-motion";
 const skills = [
   "Figma",
   "Adobe Illustrator",
-  "Adobe Photoshop",
-  "Adobe Premiere Pro",
   "Adobe After Effects",
+  "Adobe Premiere Pro",
+  "Adobe Photoshop",
   "Canva",
   "Adobe Audition",
   "Adobe Lightroom",
