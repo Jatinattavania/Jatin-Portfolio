@@ -5,7 +5,7 @@ const skills = [
   "Adobe Illustrator",
   "Adobe After Effects",
   "Adobe Premiere Pro",
-  "Adobe Photoshop",
+  "Adobe Photoshop.",
   "Canva",
   "Adobe Audition",
   "Adobe Lightroom",
