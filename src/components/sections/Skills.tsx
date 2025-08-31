@@ -28,7 +28,7 @@ export default function Skills() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, margin: "-100px" }}
             transition={{ duration: 0.25, delay: i * 0.03 }}
-            className="rounded-full border bg-gradient-to-br from-amber-500/10 via-orange-500/5 to-violet-500/10 px-4 py-2 text-center text-sm"
+            className="rounded-full border bg-gradient-to-br from-amber-500/10 via-orange-500/5 to-violet-500/10 px-2 py-2 text-center text-sm"
           >
             {name}
           </motion.div>
